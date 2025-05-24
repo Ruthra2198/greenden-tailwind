@@ -37,5 +37,5 @@ This static website includes:
 3. Customize as needed for your own project
 
 ## Link
-link here
+https://ruthra2198.github.io/greenden-tailwind/
 
